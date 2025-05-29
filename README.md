@@ -8,6 +8,8 @@ This repo provides a list of academic writing and critical thinking resources, i
 - Use AI prompts and LLM tools to brainstorm, refine, and check your academic writing.
 - Consider using GitHub for collaborative writing, open peer review, and sharing your work with the academic community.
 
+![PlymouthUniLDU_Structuring_an_assignment](https://github.com/user-attachments/assets/e1ff3209-92ea-4c5c-ac9c-64cfb14ee9df)
+
 ---
 
 ## Table of Contents
