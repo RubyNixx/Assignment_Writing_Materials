@@ -2,6 +2,12 @@
 
 This repo provides a list of academic writing and critical thinking resources, including guides, tools, and phrasebanks, and useful python code such as counting markdown cell blocks in your jupyter notebook.
 
+#### **How to Use These Resources**
+- Visit the linked repositories and sites for detailed guides, templates, and software downloads.
+- Combine writing tools (like Obsidian or Markdown editors) with bibliography managers (like Zotero) for an efficient workflow.
+- Use AI prompts and LLM tools to brainstorm, refine, and check your academic writing.
+- Consider using GitHub for collaborative writing, open peer review, and sharing your work with the academic community.
+
 ---
 
 ## Table of Contents
@@ -13,8 +19,16 @@ This repo provides a list of academic writing and critical thinking resources, i
 - [Assignment Survival Kit](#assignment-survival-kit)
 - [Understanding Essay Questions](#understanding-essay-questions)
 - [Academic Phrasebank: Being Critical](#academic-phrasebank-being-critical)
-- [Additional Recommendations](#additional-recommendations)
-- [References](#references)
+- [Jupyter Notebook Word Count](#jupyter-notebook-word-count)
+- [Additional Useful Resources for Academic Writing](#additional-useful-resources-for-academic-writing)
+  - [Awesome Academic Writing](#awesome-academic-writing)
+  - [ChatGPT Prompts for Academic Writing](#chatgpt-prompts-for-academic-writing)
+  - [Awesome Scientific Writing](#awesome-scientific-writing)
+  - [Obsidian.md for Academic Writing](#obsidianmd-for-academic-writing)
+  - [GitHub for Academics](#github-for-academics)
+  - [LLM Academic Writing](#llm-academic-writing)
+  - [Academic Writing Topic on GitHub](#academic-writing-topic-on-github)
+
 
 ---
 
@@ -83,3 +97,47 @@ This section of the Phrasebank focuses on language and structures for critical e
 ## Jupyter Notebook Word Count
 
 See Word Count Assignment jupyter notebook. We were required to submit jupyter notebooks as assignments and our markdown had to be within a max word count. This ignores cell blocks & removes reference word count.
+
+---
+
+## Additional Useful Resources for Academic Writing
+
+Here are some further high-quality resources and tools to support academic writing, research organization, and collaboration:
+
+---
+
+### [Awesome Academic Writing](https://github.com/maehr/awesome-academic-writing)
+A comprehensive, curated list of tools, guides, templates, and workflows for academic writing. Includes resources for distraction-free writing, bibliography management (e.g., Zotero, JabRef), spellchecking, Markdown and LaTeX workflows, and more.
+
+---
+
+### [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
+A regularly updated collection of prompts designed to help with brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Useful for students, researchers, and academic professionals looking to leverage AI in their writing process.
+
+---
+
+### [Awesome Scientific Writing](https://writing-resources.github.io/awesome-scientific-writing/)
+A curated guide to scientific writing resources, including tools for writing in Markdown, LaTeX, reStructuredText, and Jupyter notebooks. Includes links to templates, best practices, and community guides for scientific communication.
+
+---
+
+### [Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)
+Obsidian is a powerful note-taking and knowledge management tool with an active community, offering plugins and workflows specifically tailored for academic writers. Great for organizing literature notes, managing research, and linking ideas.
+
+---
+
+### [GitHub for Academics](https://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/)
+GitHub can be used as a collaborative platform for hosting open-licensed academic projects, including syllabi, assignments, articles, and even textbooks. It supports peer review, version control, and collaborative editing, making it a valuable tool for open science and education.
+
+---
+
+### [LLM Academic Writing](https://github.com/dixiyao/LLM-Academic-Writing)
+A public repository exploring how Large Language Models (LLMs) can enhance academic writing, including example workflows and practical tips for integrating AI tools into your writing process.
+
+---
+
+### [Academic Writing Topic on GitHub](https://github.com/topics/academic-writing)
+Explore a wide range of academic writing projects, templates, and tools contributed by the GitHub community. Includes packages for Markdown-to-LaTeX conversion, citation management, and writing automation.
+
+---
+
