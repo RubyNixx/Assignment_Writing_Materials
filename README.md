@@ -80,6 +80,6 @@ This section of the Phrasebank focuses on language and structures for critical e
 
 ---
 
-## Additional Recommendations
+## Jupyter Notebook Word Count
 
 See Word Count Assignment jupyter notebook. We were required to submit jupyter notebooks as assignments and our markdown had to be within a max word count. This ignores cell blocks & removes reference word count.
